@@ -311,22 +311,5 @@ void main()
 	QuickSort(arr2,n);
 	cout << "Random array: " << endl;
 	QuickSort(arr_rand,n);
-	/*for (int i = 0;i < n;i++)
-	{
-		arr1[i] = i;
-		cout << arr1[i] << " ";
-	}
-	cout << endl;
-	for (int i = 0;i < n;i++)
-	{
-		arr2[i] = i;
-		cout << arr2[i] << " ";
-	}
-	cout << endl;
-	for (int i = 0;i < n;i++)
-	{
-		arr_rand[i] = i;
-		cout << arr_rand[i] << " ";
-	}
-	cout << endl;*/
+	
 }
